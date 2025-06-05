@@ -1,4 +1,4 @@
 # FirstFile
 My first github project
 <br>
-      -T.Manogna(Student)
+      -T.Manogna(Student Vit-AP)
